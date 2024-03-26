@@ -1,3 +1,4 @@
 # NgScaleScreen
 
+test verify
 test
